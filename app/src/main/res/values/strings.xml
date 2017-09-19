@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="animal">这是考拉，和袋鼠一样主要生活在澳大利亚</string>
+</resources>
